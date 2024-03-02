@@ -36,6 +36,6 @@ Understand the significance of testing in JavaScript development. This module in
 
 Elevate your projects to the next level by mastering project organization, best practices, and maintaining a clean codebase. Explore tools for code linting and formatting to enhance collaboration and code quality.
 
-## Module 8 : Books
+### Module 8 : Books
 
 Happy coding!
