@@ -1,0 +1,68 @@
+# Node.js files
+node_modules/
+
+# Logs
+logs
+*.log
+
+# Dependency directory
+dependencies/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Editor-specific files
+.vscode/
+.idea/
+
+# Environment variables file
+.env
+
+# Build files
+build/
+dist/
+
+# Dependency lock file
+yarn.lock
+package-lock.json
+
+# Coverage directory
+coverage/
+
+# Temporary files
+*.tmp
+
+# Jest snapshot directory
+__snapshots__/
+
+# Mac finder files
+ehthumbs.db
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# Visual Studio Code folder config
+.vscode/
+
+# JSHint
+.jshintrc
+
+# Jest testing framework
+jest.config.js
